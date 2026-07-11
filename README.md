@@ -71,3 +71,7 @@ export default defineConfig([
   },
 ])
 ```
+
+
+# TO-DO LIST
+## 7/11/26: finish up database (postgres) setup. Need to change the values in code to match the train project. Also need to properly download Swagger testing
